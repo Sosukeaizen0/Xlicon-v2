@@ -19,9 +19,9 @@ global.statusseen = true;                 //This is the new variable for control
 //
 global.Owner = ["8801975492880","8801928502256"];         //If you want singal number so global.Owner = ['8801928502256'] Change into your number.
 global.OwnerNumber = ["8801975492880","8801928502256"];   //If you want singal number so global.Owner = ['8801928502256'] Change into your number.
-global.ownertag = ["8801975492880"];
-global.OwnerName = "Slasher";
-global.BotName = "XLICON-MD";
+global.ownertag = ["221778884595"];
+global.OwnerName = "𝕾𝖊𝖞è 𝕬𝖎𝖟𝖊𝖓༒";
+global.BotName = "𝔍𝔲𝔤𝔯𝔞𝔪 ℌ𝔞𝔰𝔠𝔥𝔴𝔞𝔩𝔱𝔥";
 global.packname = "X-2.0 Bot";                             //Do not change.
 global.author = "By: Slasher";                               //Do not change.
 global.BotSourceCode = "https://github.com/ahil15/Xlicon-v2"; //Do not change.
@@ -33,7 +33,7 @@ global.sessionName = "session";                          //Do not change.
 
 
 //
-global.prefa = ["."];                                    //Default prefix here.
+global.prefa = ["&"];                                    //Default prefix here.
 global.openAiAPI = "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";
 
 
@@ -77,7 +77,7 @@ global.ntilink = []
 //
 global.mess = {
     jobdone: 'Here you go...',
-    useradmin: 'Sorry, only *Group Admins* can use this command *Baka*!',
+    useradmin: 'Sorry, only *Group Admins* can use this command *imbécile*!',
     botadmin: 'Sorry, i cant execute this command without being an *Admin* of this group.',
     botowner: 'Only my *Owner* can use this command, Baka!',
     grouponly: 'This command is only made for *Groups*, Baka!',
@@ -88,7 +88,7 @@ global.mess = {
     error: 'An error occurd!',
     banned: 'You are *Banned* fron using commands!',
     bangc: 'This Group is *Banned* from using Commands!',
-    nonsfw: 'Dont be a pervert Baka! This is not a NSFW enabled group!'
+    nonsfw: 'Cesse de faire la pute! This is not a NSFW enabled group!'
     
 }
 
